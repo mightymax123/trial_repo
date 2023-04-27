@@ -7,4 +7,4 @@ made a change to repo
 
 change made on main right here after the last mess
 
-change made on line 10 in branch1
+change made on line 10 in branch1 and also the main bit as well
